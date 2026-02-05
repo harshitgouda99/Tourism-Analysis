@@ -1,8 +1,8 @@
 # Tourism-Analysis
 📌 Project Overview
 -------------------------
-       This project focuses on Exploratory Data Analysis (EDA) of tourism data from Uttara Kannada district, Karnataka. Using Python, Pandas, and Matplotlib, the project analyzes tourist patterns, crowd levels, seasonal trends, popularity, and environmental sensitivity of various tourist destinations.
-      The goal is to gain data-driven insights that can help in tourism planning, sustainable development, and decision-making.
+   This project focuses on Exploratory Data Analysis (EDA) of tourism data from Uttara Kannada district, Karnataka. Using Python, Pandas, and Matplotlib, the project analyzes tourist patterns, crowd levels, seasonal trends, popularity, and environmental sensitivity of various tourist destinations.
+   The goal is to gain data-driven insights that can help in tourism planning, sustainable development, and decision-making.
 
 🎯 Objectives
 ----------------------------------------------------------
