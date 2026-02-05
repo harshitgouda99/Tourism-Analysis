@@ -81,6 +81,7 @@ B Harshit Gouda
 harshitgouda99@gmail.com
 
 📜 Conclusion
+--------------------------------------------------------
 This project successfully demonstrates how data analysis and visualization can be used to understand tourism trends and challenges. It highlights the importance of sustainable tourism and data-driven decision-making for regional development.
 
 This project successfully demonstrates how data analysis and visualization can be used to understand tourism trends and challenges. It highlights the importance of sustainable tourism and data-driven decision-making for regional development.
